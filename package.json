@@ -7,7 +7,7 @@
     "url": "https://github.com/leemunroe/grunt-email-workflow"
   },
   "devDependencies": {
-    "assemble": "kapooostin/assemble#0.6.0",
+    "assemble": "kapooostin/assemble#v0.6.0",
     "cheerio": "^0.19.0",
     "ejs": "^2.3.1",
     "express": "^4.12.3",
